@@ -2,3 +2,7 @@ Class names should be nouns, in mixed cases with the first letter of each intern
 Interfaces names should also be capitalized just like class names.
 Methods should be verbs, in mixed case with the first letter lowercase and with the first letter of each internal word capitalized.
 The prefix of a unique package name is always written in all-lowercase ASCII letters and should be one of the top-level domain names, like com, edu, gov, mil, net, org.
+
+
+java is a compile language.
+java is a platform independent.
